@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab13f794.css",
+    "main.js": "/static/js/main.36d4aa97.js",
+    "static/media/dinny girls.png": "/static/media/dinny girls.e888d3da50ef5170f394.png",
+    "static/media/dinnygreen1.png": "/static/media/dinnygreen1.203f634eb014c0535a34.png",
+    "static/media/dinnygreen.bg.png": "/static/media/dinnygreen.bg.2ad5b4e48896b134498a.png",
+    "static/media/blur farmer.png": "/static/media/blur farmer.aec0f74c71d5d4a761e0.png",
+    "static/media/student1_n.png": "/static/media/student1_n.96d6ca57ebfc212d3120.png",
+    "static/media/trust-tru-man.png": "/static/media/trust-tru-man.ab3b342a3dd6790acec1.png",
+    "static/media/dinny7_n.png": "/static/media/dinny7_n.bba2be189bb1935e4ab0.png",
+    "static/media/christina-woman.png": "/static/media/christina-woman.f2d9695f94e9ac65c683.png",
+    "static/media/burning flame.png": "/static/media/burning flame.9b85ebcc4d3f107635ad.png",
+    "static/media/ellipsewoman1.png": "/static/media/ellipsewoman1.2dc41aa0f4c7f7515b95.png",
+    "static/media/ellipseman.png": "/static/media/ellipseman.11700ec249ef8bbfb0a0.png",
+    "static/media/ellipsewoman4.png": "/static/media/ellipsewoman4.b24c9c8ce90fd587be66.png",
+    "static/media/ellipsewoman2.png": "/static/media/ellipsewoman2.17b3f7b0c25eabb97c71.png",
+    "static/media/ellipsewoman3.png": "/static/media/ellipsewoman3.f56f3be31f4ad0646252.png",
+    "static/media/school.logo.png": "/static/media/school.logo.5b6b0bc70cd76f0b84f6.png",
+    "static/media/piecering.ellipse22.png": "/static/media/piecering.ellipse22.42a5ceaffdae614d5c4c.png",
+    "static/media/james-timothy-ellipse23.png": "/static/media/james-timothy-ellipse23.fc189eada8b80aba584a.png",
+    "static/media/man.Ellipse21.png": "/static/media/man.Ellipse21.bc58fa7562fb9b388485.png",
+    "index.html": "/index.html",
+    "main.ab13f794.css.map": "/static/css/main.ab13f794.css.map",
+    "main.36d4aa97.js.map": "/static/js/main.36d4aa97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab13f794.css",
+    "static/js/main.36d4aa97.js"
+  ]
+}
